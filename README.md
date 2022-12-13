@@ -9,7 +9,7 @@
 
 Big-O gösterimi -> O(n²)
 
-[7,3,5,8,2,9,4,15,6] Dizisinin Selection Sort'a göre ilk 4 adımın
+[7,3,5,8,2,9,4,15,6] Dizisinin Selection Sort'a göre ilk 4 adımı
 
 [2,3,5,8,7,9,4,15,6]
 
